@@ -18,3 +18,6 @@ SQL Server: Power BI connects directly to the SQL database to import structured 
 Using native queries or Power Query, data is filtered and shaped at the source to optimize performance.
 Excel File: Supplementary or reference data, such as lookup tables, budget plans, or manually maintained records, are imported from Excel.
 Power BI allows for easy transformation of this data to match the schema of the SQL data.
+
+OUTPUT :
+![Image](https://github.com/user-attachments/assets/8a11458f-2584-4600-bcec-0b9a5d51ad02)
